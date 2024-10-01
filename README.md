@@ -94,7 +94,7 @@ This app is licensed under the MIT License.
 
 ## Author 👨‍💻
 
-[Your Name]
+Priyanshu Rathod
 
 
 ## Version 📈
@@ -103,5 +103,4 @@ This app is licensed under the MIT License.
 
 
 ## Last Updated 📆
-
-[Current Date]
+01/10/2024
